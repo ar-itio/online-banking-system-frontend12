@@ -1,0 +1,13 @@
+/* TopHeader.css */
+/* TopRightHeader.css */
+/* TopRightHeader.css */
+.top-right-header {
+  position: fixed;
+  right: 0;
+  top: 0;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+
